@@ -11,7 +11,7 @@
 
 ## virtual environment
 
-* Un entorno virtual no es que una forma de separar modulos en diferentes proyectos
+* Un entorno virtual no es mas que una forma de separar modulos en diferentes proyectos
 
 [![Entorno Virtual](https://i.postimg.cc/0ybL5w2Y/Captura-de-pantalla-2023-02-23-225531.png)](https://postimg.cc/87gytsvc)
 
