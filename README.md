@@ -167,3 +167,28 @@ Available subcommands:
 3. ***urls.py**: este archivo tiene las rutas que el usuario puede visitar
 
 3. ***asgi.py and wsgi.py** : estos dos archivos sirven el contenido 
+
+
+## Aplicaciones en django 
+
+[![Captura-de-pantalla-2023-02-24-225550.png](https://i.postimg.cc/hvFspc2z/Captura-de-pantalla-2023-02-24-225550.png)](https://postimg.cc/qhL27VV4)
+
+* supongamos que estamos haciendo un e-commerces que neccesito ?
+
+1. `rutas`
+2. `productos`
+3. `precios`
+3. `etc...`
+
+* cada uno de los pasos mencionado en django se le conoce como una aplicacion, cada aplicacion la podemos dividir de diferentes manera
+
+
+## como creo una aplicacio en django ?
+
+* para crear una aplicacion en django nosotros, tenemos que usar el siguiente comando
+
+````
+python manage.py startapp <name-app>
+````
+
+* podemos crear la cantidad de app que nuestra aplicacion requiera
