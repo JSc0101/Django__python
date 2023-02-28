@@ -192,3 +192,16 @@ python manage.py startapp <name-app>
 ````
 
 * podemos crear la cantidad de app que nuestra aplicacion requiera
+
+
+## estrutura de una aplicacion
+
+* a continuacion te explicare para que srive cada archivo de una aplicacion django
+
+1. `views` este archivo es el que se encarga de enviarle al navegador el contenido a servir
+
+2. `admin` este archivo es el panel de administracion , nos permite administrar toda nuestras aplicaciones por ejemplo definir rol,user etc...
+
+3. `apps` es para poder configurar nuestra aplicacion
+
+4. `models` este archivo es para que nosotros creemos clase y estas classes se conviertan en tablas sql
