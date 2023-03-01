@@ -4,9 +4,9 @@ from django.http import HttpResponse
 
 
 def hello_world(request):
-    """.REPONSE"""
+    # Hello world
     return HttpResponse("<h1>Hello world</h1>")
 
 def about(request):
-    """.About"""
+    # about
     return HttpResponse("<h2>About</h2>")
